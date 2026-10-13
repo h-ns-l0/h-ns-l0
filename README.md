@@ -28,5 +28,5 @@ Spring Boot 기반 백엔드 개발을 하고 있습니다.
 
 ## Contact
 
-- Email: [이메일]
-- Portfolio: [Notion 링크]
+- Email: hnsl0folio@gmail.com
+- Portfolio: 
